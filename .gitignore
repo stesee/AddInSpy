@@ -233,3 +233,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 /.vs/
+/AddInScanEngine/.vs
+/AddInSpy/.vs
+/AS/.vs
