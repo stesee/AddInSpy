@@ -8,7 +8,7 @@
     <OutputType>Library</OutputType>
     <AssemblyName>AddInScanEngine</AssemblyName>
     <RootNamespace>AddInSpy</RootNamespace>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileUpgradeFlags>
     </FileUpgradeFlags>
     <UpgradeBackupLocation>
